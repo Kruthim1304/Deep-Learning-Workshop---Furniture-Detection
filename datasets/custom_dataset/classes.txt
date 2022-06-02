@@ -1,0 +1,6 @@
+bed
+chair
+lightstand
+shoestand
+sofa
+table
