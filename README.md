@@ -60,16 +60,18 @@ In total we have 977 images.
 ## Mean average precision:
  <br>
 <p align="center">
-<img src = "![confusion_matrix](https://user-images.githubusercontent.com/83969166/171608625-cccb9b0a-5d1b-4a61-9889-924ab2f7329d.png)
-" align="middle"><br>
+<img src = "" align="middle"><br>
 </p><br>
 As of a typical Conv2D model, we see that the accuracy keeps improving in performance compared to the baseline.
 
 
+
 ## Preview
+
+![1](https://user-images.githubusercontent.com/90834830/171609499-a40cbd61-836b-4005-8239-e7a53ccc0fc9.jpg)
 <p align="center">
-<img src="" width="800" height="400" />
-<br>
+
+
 <br>
 </p><br>
 
