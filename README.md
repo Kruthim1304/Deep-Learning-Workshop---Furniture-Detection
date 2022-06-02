@@ -58,18 +58,19 @@ In total we have 977 images.
 	
 	
 ## Mean average precision:
- <br>
-<p align="center">
-<img src = "![confusion_matrix](https://user-images.githubusercontent.com/83969166/171608625-cccb9b0a-5d1b-4a61-9889-924ab2f7329d.png)
-" align="middle"><br>
-</p><br>
+![confusion_matrix](https://user-images.githubusercontent.com/83969166/171611558-fdb9344d-1c37-42c4-9518-4a2a0034c9b3.png)
+
+
 As of a typical Conv2D model, we see that the accuracy keeps improving in performance compared to the baseline.
 
 
+
 ## Preview
+
+![1](https://user-images.githubusercontent.com/90834830/171609499-a40cbd61-836b-4005-8239-e7a53ccc0fc9.jpg)
 <p align="center">
-<img src="" width="800" height="400" />
-<br>
+
+
 <br>
 </p><br>
 
@@ -87,6 +88,6 @@ As of a typical Conv2D model, we see that the accuracy keeps improving in perfor
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<p align=enter">
+<p align="center">
 	Made with :heart: by <a href=""></a>
 </p>
