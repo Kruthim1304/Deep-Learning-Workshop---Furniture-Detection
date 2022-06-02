@@ -26,7 +26,7 @@ In total we have 977 images.
 ## Data preprocessing steps:
 - Annotated Furniture Images
 	- Data Source: Google Images ( web scraped )
-	- Obtained around 1000 images across 6 categories
+	- Obtained around 977 images across 6 categories
 	- The Images were labelled using LabelImg, object bounding boxes
 
 <br>
