@@ -50,9 +50,10 @@ In total we have 977 images.
 -  
 
 ## Project architecture:
- <br>
-<p align="center">
-<img src = "" align="centre">
+
+![project architecture](https://user-images.githubusercontent.com/83969166/171612620-0d884fb0-062a-4dbb-918d-479518f4d30a.jpeg)
+ 
+
 </p>	
 <br>
 	
@@ -89,5 +90,5 @@ As of a typical Conv2D model, we see that the accuracy keeps improving in perfor
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
-	Made with :heart: by <a href=""></a>
+	Made with :heart: by Groot_AI<a href=""></a>
 </p>
