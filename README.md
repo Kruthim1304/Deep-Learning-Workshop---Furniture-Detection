@@ -14,36 +14,31 @@
   
   
 ## Data preprocessing steps:
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]  <br>
+- Annotated Furniture Images
+	- Data Source: Google Images ( web scraped )
+	- Obtained around 1000 images across 6 categories
+	- The Images were labelled using LabelImg, object bounding boxes
 
-
+<br>
 
 ## Model Construction:
-Deep learning model:
+-  For this project we have used YOLOv5 Model Architecture.
+-  YOLO an acronym for 'You only look once', is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
+-  YOLO is one of the most famous object detection algorithms due to its speed and accuracy.
 
-- [ ] 
-- [ ]  
-- [ ] 
 
-<p align="center">
-<img src = "" style=" text-align:center;"><br>
-</p>
-<br>
-	
-- [ ] 
-- [ ] 
-- [ ] 
 
 ## Functionalities
-- [ ]   
-- [ ]
-- [ ]   
+-  It can be used to detect usable furniture such as  
+	-  Chair
+	-  Table
+	-  Sofa
+	-  Shoe Stand
+	-  Bed
+	-  Light Stand
 
 ## Instructions to run:
-- [ ] 
+-  
 
 ## Project architecture:
  <br>
@@ -52,16 +47,9 @@ Deep learning model:
 </p>	
 <br>
 	
-## Model loss:
-<br>
-<p align="center">
-<img src = "" align="centre"><br>
-</p>
-<br>
 
-<br>
 	
-## Model accuracy:
+## Mean average precision:
  <br>
 <p align="center">
 <img src = "" align="middle"><br>
@@ -78,85 +66,17 @@ As of a typical Conv2D model, we see that the accuracy keeps improving in perfor
 <br>
 </p><br>
 
-## Functionalities
-- [ ]   
+
 
 <br>
-
-
-
-
 ## Contributors
 
-<table>
-<tr align="center">
-
-
-<td>
-
-
-
-<p align="center">
-<img src = ""  height="120" alt="Kruthi M">
-</p>
-<p align="center">
-<a href = "https://github.com/Kruthim1304"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/kruthi-m-49b300200/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = Kruthim1304/Deep-Learning-Workshop---Furniture-Detection"/>
 </a>
-</p>
-</td>
 
+Made with [contributors-img](https://contrib.rocks).
 
-<td>
-
-
-
-<p align="center">
-<img src = "https://cdn.discordapp.com/attachments/863847804253896704/876356351041863700/unknown.png?raw=true"  height="120" alt="Abhay Lal">
-</p>
-<p align="center">
-<a href = "https://github.com/abhay-lal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/abhay-l-6850111bb/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-
-<td>
-
-
-
-<p align="center">
-<img src = "https://cdn.discordapp.com/attachments/863847804253896704/876358992031514634/unknown.png?raw=true"  height="120" alt="Jahnavi Darbhamulla">
-</p>
-<p align="center">
-<a href = "https://github.com/JahnaviDarbhamulla"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/jahnavi-darbhamulla-0a4280201/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-<td>
-
-
-
-<p align="center">
-<img src = "https://cdn.discordapp.com/attachments/863847804253896704/876356501961338932/1609862856356.png?raw=true"  height="120" alt="Aryan Karoliwal">
-</p>
-<p align="center">
-<a href = "https://github.com/xxNitroprasad"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aryankaroliwal/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-</tr>
-</table>
 
   
 ## License
