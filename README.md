@@ -7,16 +7,26 @@
 	<h4 align="center">   <h4>
 </p>
 
-
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://github.com/Data-Science-Community-SRM/Hand-Written-Digit-Classification-Recognition/blob/master/README.md) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://data-science-community-srm.github.io/Hand-Written-Digit-Classification-Recognition/index.html)
 	
-  
+Computer vision is a rapidly growing field in the technology and computer science world.
+An object detection system consists of recognizing, classifying, and localizing, not only one piece of furniture in an image but every referenced piece of the furniture mentioned.
+One of the most popular algorithms to date for real-time object detection is YOLO (You Only Look Once). The great thing about this Deep Neural Network is that it is very easy to retrain the network on your own custom dataset.
+In this project, we have made a custom dataset consisting of 6 classes of furnitures. They are as follows :
+- Chair
+- Table
+- Sofa
+- Bed
+- Light Stand
+- Shoe Table 
+In each class, there are around 160 labelled images for training our model. 
+In total we have 977 images.
+	
+	
   
 ## Data preprocessing steps:
 - Annotated Furniture Images
 	- Data Source: Google Images ( web scraped )
-	- Obtained around 1000 images across 6 categories
+	- Obtained around 977 images across 6 categories
 	- The Images were labelled using LabelImg, object bounding boxes
 
 <br>
@@ -25,7 +35,6 @@
 -  For this project we have used YOLOv5 Model Architecture.
 -  YOLO an acronym for 'You only look once', is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
 -  YOLO is one of the most famous object detection algorithms due to its speed and accuracy.
-
 
 
 ## Functionalities
@@ -47,7 +56,6 @@
 </p>	
 <br>
 	
-
 	
 ## Mean average precision:
  <br>
@@ -55,8 +63,6 @@
 <img src = "" align="middle"><br>
 </p><br>
 As of a typical Conv2D model, we see that the accuracy keeps improving in performance compared to the baseline.
-
-
 
 
 ## Preview
@@ -67,16 +73,14 @@ As of a typical Conv2D model, we see that the accuracy keeps improving in perfor
 </p><br>
 
 
-
 <br>
-## Contributors
+# Contributors
+	<br><br>
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Kruthim1304/Deep-Learning-Workshop---Furniture-Detection"/>
+
+<a href="https://github.com/Kruthim1304/Deep-Learning-Workshop---Furniture-Detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kruthim1304/Deep-Learning-Workshop---Furniture-Detection" />
 </a>
-
-Made with [contributors-img](https://contrib.rocks).
-
 
   
 ## License
