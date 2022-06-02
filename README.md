@@ -78,12 +78,24 @@ As of a typical Conv2D model, we see that the accuracy keeps improving in perfor
 
 <br>
 # Contributors
-	<br><br>
+<table>
+  <tr>
+    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="300px;" alt=""/><br /><sub><b>Kruthi M</b></sub></a><br /></td>
+	  <br><br><br>
+    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="300px;" alt=""/><br /><sub><b>Jahnavi Darbhamulla</b></sub></a><br /></td>
+<td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Gautam J</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="300px;" alt=""/><br /><sub><b>Atulya deep</b></sub></a><br /></td>
+	  <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Brijesh Kumar</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Jerin Joe</b></sub></a><br /></td>
+	  <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Salwyn Mathew</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Roshan Upadhyay</b></sub></a><br /></td>
+	   <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Ujam Som</b></sub></a><br /></td>
+	   <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Gaurav Chaturvedi</b></sub></a><br /></td>
+	   <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Himanshu Pandey</b></sub></a><br /></td>
+	   <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Rahi Jain</b></sub></a><br /></td>
+	   <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Moulidharan Shanmugam</b></sub></a><br /></td>
+</table>
 
-
-<a href="https://github.com/Kruthim1304/Deep-Learning-Workshop---Furniture-Detection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kruthim1304/Deep-Learning-Workshop---Furniture-Detection" />
-</a>
 
   
 ## License
