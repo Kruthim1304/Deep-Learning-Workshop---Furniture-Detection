@@ -87,6 +87,10 @@ From the above graphs, we can see that the Mean Average Precision keeps increasi
 
 ## Preview
 
+We have also attached a video of our model. Follow the link given below: 
+
+https://drive.google.com/file/d/13aBa3yXtUdYtLMK0YUIBTHaB_fk9L4-J/view?usp=sharing
+
 ![1](https://user-images.githubusercontent.com/90834830/171609499-a40cbd61-836b-4005-8239-e7a53ccc0fc9.jpg)
 <p align="center">
 
